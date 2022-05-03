@@ -18,3 +18,5 @@
 
 # ¿Por que verla?
 *Es demasiado comica, por ser animada eso se espera, pero me gusta que sea asi*
+
+/assets/images/Granja1.png
