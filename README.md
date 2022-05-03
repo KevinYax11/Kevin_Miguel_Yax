@@ -25,3 +25,4 @@
 *Es demasiado comica, por ser animada eso se espera, pero me gusta que sea asi*
 
 ![Esta es una imagen](https://static.wikia.nocookie.net/doblaje/images/3/3c/La-granja.jpg/revision/latest?cb=20171125044612&path-prefix=es)
+![Esta es una imagen](https://pm1.narvii.com/6943/d6e5921a260a7613776bbab70b81605a98a2a4cer1-1024-768v2_hq.jpg)
