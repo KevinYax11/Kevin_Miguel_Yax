@@ -7,10 +7,11 @@
 # Voces Principales:
 
 # Personajes
-1. *Otis* :pig2:
-2. *Ben*
+1. *Otis* :cow:
+2. *Ben*  :cow:
 3. *Pig :pig2:*
-4. *Pip*
+4. *Pip* :rat:
+5. *Dag* :wolf: *(es coyote pero no encontre el emoji )*
 
 # De Que Va La Pelicula:
 *trata sobre como una vaca se le muere su padre y le corresponde a el cuidar de todos los animales de la granja*
