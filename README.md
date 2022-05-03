@@ -7,9 +7,9 @@
 # Voces Principales:
 
 # Personajes
-1. *Otis*
+1. *Otis* :pig2:
 2. *Ben*
-3. *Pig*
+3. *Pig :pig2:*
 4. *Pip*
 
 # De Que Va La Pelicula:
