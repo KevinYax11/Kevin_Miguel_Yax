@@ -7,10 +7,10 @@
 # Voces Principales:
 
 # Personajes
-*Otis*
-*Ben*
-*Pig*
-*Pip*
+1. *Otis*
+2. *Ben*
+3. *Pig*
+4. *Pip*
 
 # De Que Va La Pelicula:
 *trata sobre como una vaca se le muere su padre y le corresponde a el cuidar de todos los animales de la granja*
