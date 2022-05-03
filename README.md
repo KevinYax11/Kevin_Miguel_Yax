@@ -19,4 +19,4 @@
 # ¿Por que verla?
 *Es demasiado comica, por ser animada eso se espera, pero me gusta que sea asi*
 
-/assets/images/Granja1.png
+![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
