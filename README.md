@@ -5,6 +5,11 @@
 *la pelicula en si genial, es comica y te enseña una realidad que todos vivimos*
 
 # Voces Principales:
+- Kevin James - Otis
+- Jeffrey Garcia - Pip
+- Tino Insana - Pig
+- Sam Elliot - Ben
+- David Koechner - Dag
 
 # Personajes
 1. *Otis* :cow:
@@ -19,4 +24,4 @@
 # ¿Por que verla?
 *Es demasiado comica, por ser animada eso se espera, pero me gusta que sea asi*
 
-![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+![Esta es una imagen](https://static.wikia.nocookie.net/doblaje/images/3/3c/La-granja.jpg/revision/latest?cb=20171125044612&path-prefix=es)
